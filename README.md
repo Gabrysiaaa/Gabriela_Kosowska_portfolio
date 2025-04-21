@@ -1,5 +1,5 @@
 # Gabriela_Kosowska_portfolio
 Cześć! 
-Mam na imię Gabrysia, mam 22 lata i interesuję się analizą, raportowaniem i narzędziami takimi jak Excel, Power BI i SQL.
+Mam na imię Gabrysia, mam 22 lata i interesuję się analizą, raportowaniem oraz narzędziami takimi jak Excel, Power BI czy SQL.
 To portfolio to mój sposób na naukę i rozwój – pokazuję tutaj projekty, które realizuję krok po kroku, ucząc się w praktyce i na realnych przykładach.
-Zapraszam do zapoznania się z moimi projektami.
+Zapraszam do zapoznania się z moimi projektami :)
