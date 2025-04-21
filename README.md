@@ -1,4 +1,5 @@
 # Gabriela_Kosowska_portfolio
-Cześć!
-
-Zapraszam do zapoznania się z moimi projektami. W tym miejscu znajdziesz zbiór projektów zrealizowanych w Excelu, Power BI i SQL, mających na celu rozwój kompetencji w obszarze analizy danych. Projekty pokazują moje umiejętności w zakresie raportowania, pracy z bazami danych oraz tworzenia przejrzystych i funkcjonalnych wizualizacji.
+Cześć! 
+Mam na imię Gabrysia, mam 22 lata i interesuję się analizą, raportowaniem i narzędziami takimi jak Excel, Power BI i SQL.
+To portfolio to mój sposób na naukę i rozwój – pokazuję tutaj projekty, które realizuję krok po kroku, ucząc się w praktyce i na realnych przykładach.
+Zapraszam do zapoznania się z moimi projektami.
